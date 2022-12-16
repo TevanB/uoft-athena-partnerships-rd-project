@@ -5,7 +5,7 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
-  To imporove on the experiential learning system with University Partnerships, reducing the load on Educators while streamlining the interactions between Students, Partners, and Educators.
+  To improve on the experiential learning system with University Partnerships, reducing the load on Educators while streamlining the interactions between Students, Partners, and Educators.
 
 ## Table of Contents (Optional)
 
