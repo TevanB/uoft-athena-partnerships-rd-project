@@ -86,6 +86,8 @@ This app is currently deployed via Heroku on a free instance (possible to run on
 
 URL: https://athena-partners-prod.herokuapp.com/
 
+Note: since Heroku dropped support for the free tier, this link will not work.
+
 ## Credits
 
 Tevan Bhatia (https://github.com/TevanB) (https://tevanb.com)
